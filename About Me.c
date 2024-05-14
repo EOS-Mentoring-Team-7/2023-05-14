@@ -5,13 +5,13 @@ int main() {
     int age;
     char hobby[100];
     
-    printf("Enter your name: 조수인");
+    printf("Enter your name: 김현수");
     scanf("%s", name); 
 
-    printf("Enter your age: 20");
+    printf("Enter your age: 21");
     scanf("%d", &age); 
 
-    printf("Enter your hobby: 사진");
+    printf("Enter your hobby: 게임");
     scanf("%s", hobby);
     
     printf("\nHello! My name is %s.\n", name);
